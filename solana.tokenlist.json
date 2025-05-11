@@ -1,0 +1,28 @@
+{
+  "name": "Solana Token List",
+  "tags": {
+    "utility-token": {
+      "name": "Utility",
+      "description": "Utility tokens"
+    }
+  },
+  "timestamp": "2025-05-11T12:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "2ZBMuuFef9jcQ6qvt3CpeG4oiMxX3jAp7Po9oHZJC2gk",
+      "symbol": "RAM",
+      "name": "Ramyonverse",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ramyonverse/ram-token-assets/main/RAM-Token-Logo%20(3).png",
+      "tags": [
+        "utility-token"
+      ]
+    }
+  ]
+}
